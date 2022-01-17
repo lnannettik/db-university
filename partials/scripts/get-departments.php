@@ -17,4 +17,4 @@ if($results && $results->num_rows > 0) {
 }
 
 // Close DB connection
-$conn->close();bfgdn fhhnrf ndrhrrydnhn
+$conn->close();

@@ -1,5 +1,5 @@
 <?php
-    require_once __DIR__ . './partials/scripts/get-department.php';
+    require_once __DIR__ . '/partials/scripts/get-departments.php';
 ?>
 
 
