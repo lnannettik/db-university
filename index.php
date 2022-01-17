@@ -1,3 +1,9 @@
+<?php
+    require_once __DIR__ . './partials/scripts/get-department.php';
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,7 +45,7 @@
                                 </a>
                             </td>
                         </tr>
-                    <?php endforeeach;
+                    <?php endforeach;
                 endif; ?>
             </tbody>
         </table>
